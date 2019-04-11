@@ -3,4 +3,4 @@ language: swift
 script:
   - brew update
   - brew install swiftformat
-  - swiftformat
+  - swiftformat --version
